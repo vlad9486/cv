@@ -1,23 +1,26 @@
 # Vladislav Melnik
 
+Temporal location: Brno, Czech Republic.
 Location: Lviv, Ukraine.
 
-Contacts: +38 097 047 95 74, vladislav.melnik@protonmail.com.
+Contacts: +420 776 653 339, vlad9486@gmail.com.
 
 ## Core skills
 
-* Programming: Rust, C++, Swift, Objective C;
-* Low-level programming (kernel or driver development);
+* Programming: Rust, C++, C, Swift;
+* Networking techniques: low level (io_uring, epoll, kqueue), high level (LibP2P, QUIC).
+* Networking algorithms: handshake (TLS, Noise), peer routing (Chord, Kademlia).
+* Linux Low-level programming (kernel or driver development, use eBPF in Rust);
 * Understand principles of accelerated 3D graphics (OpenGL, Vulkan);
-* Cryptography: symmetric, asymmetric, cryptographic primitives: Galois field, elliptic curve;
-* Understand smartcontract and blockchain cryptography background;
+* Cryptography: symmetric, asymmetric, cryptographic primitives: Galois field, elliptic curve, zk-SNARK;
+* Understand smartcontract and blockchain cryptography;
 * Work with Docker and microservices;
 * iOS: Cocoa API (Core Foundation, Core Data, etc.), Core Animation, AVFoundation, AFNetworking, OpenGL ES, Metal;
 
 ## Research interests
 
 * Mathematics: category theory, algebra, number theory;
-* Post-quantum cryptography, zero-knowledge proof, lattice.
+* Post-quantum cryptography, lattice.
 * Theoretical physics: group theory, modern geometry;
 
 ## Education
@@ -31,12 +34,15 @@ Contacts: +38 097 047 95 74, vladislav.melnik@protonmail.com.
 * iOS developer (Jan 2014 – Jun 2015) in M.I.F.Projects outsource company. Contact with consumer, implementing iOS application.
 * Game developer (Jun 2015 – Nov 2016) in Gameloft. Implementing new functional (mostly in C++), fixing bugs (C++ and objective C), writing documentation, investigation emergency live issues, writing scripts in Python.
 * iOS developer (Nov 2016 - Jun 2018) in GlobalLogic. Contact with consumer, implementing iOS application, testing, writing docs.
-* Rust backend developer (Jub 2018 - Jan 2020, remote) in Bitfury Peach. Implementing the lightning node in Rust. Implementing [the wallet backend](https://bitfurypeach.com/) in Go.
+* Rust backend developer (Jun 2018 - Jan 2020, remote) in Bitfury Peach. Implementing the lightning node in Rust. Implementing [the wallet backend](https://bitfurypeach.com/) in Go.
+* Senior Rust developer (Jul 2020 - present) in Viable Systems. Implement Tezos node in Rust. Implement Mina node in Rust. Create a debugging and testing toolkit.
 
 ### Opensource
 
-* [Github](https://github.com/vlad9486);
+* [Noise handshake](https://github.com/vlad9486/vru-noise);
+* [Tools for using eBPF in Rust](https://github.com/vlad9486/ebpf-tools);
+* [Post quantum key encapsulation algorithm](https://github.com/vlad9486/vru-kyber);
 * [Lightning node (far from complete)](https://github.com/LightningPeach/lpd);
 * [Wrapper for secp256k1 library to build for Wasm32 target](https://github.com/LightningPeach/secp256k1-wrapper);
 
-#### Last updated: Mar 2020
+#### Last updated: December 2023
