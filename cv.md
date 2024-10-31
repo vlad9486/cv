@@ -35,7 +35,8 @@ Contacts: +420 776 653 339, vlad9486@gmail.com.
 * Game developer (Jun 2015 – Nov 2016) in Gameloft. Implementing new functional (mostly in C++), fixing bugs (C++ and objective C), writing documentation, investigation emergency live issues, writing scripts in Python.
 * iOS developer (Nov 2016 - Jun 2018) in GlobalLogic. Contact with consumer, implementing iOS application, testing, writing docs.
 * Rust backend developer (Jun 2018 - Jan 2020, remote) in Bitfury Peach. Implementing the lightning node in Rust. Implementing [the wallet backend](https://bitfurypeach.com/) in Go.
-* Senior Rust developer (Jul 2020 - present) in Viable Systems. Implement Tezos node in Rust. Implement Mina node in Rust. Create a debugging and testing toolkit.
+* Senior Rust developer (Jul 2020 - Jun 2024) in Viable Systems. Implement Tezos node in Rust. Implement Mina node in Rust. Create a debugging and testing toolkit.
+* Software Engineer (Jul 2024 - present) in Mina Foundation. Implement Mina node in Rust.
 
 ### Opensource
 
@@ -45,4 +46,4 @@ Contacts: +420 776 653 339, vlad9486@gmail.com.
 * [Lightning node (far from complete)](https://github.com/LightningPeach/lpd);
 * [Wrapper for secp256k1 library to build for Wasm32 target](https://github.com/LightningPeach/secp256k1-wrapper);
 
-#### Last updated: December 2023
+#### Last updated: October 2024
